@@ -20,7 +20,9 @@
   "dependencies": {
     "express": "^4.17.1",
     "global": "^4.4.0",
+    "jest-cli": "^27.5.1",
     "jquery": "^3.5.1",
+    "live-server": "^1.2.1",
     "path": "^0.12.7"
   },
   "devDependencies": {
